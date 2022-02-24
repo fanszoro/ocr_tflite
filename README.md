@@ -2,6 +2,8 @@
 
 This repository is to create tflite models for the available ocr models.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fanszoro/ocr_tflite.git/HEAD)
+
 ### TFLite Models Available
 
 - [Captcha OCR](https://keras.io/examples/vision/captcha_ocr/)
